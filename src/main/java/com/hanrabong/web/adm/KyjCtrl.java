@@ -19,4 +19,5 @@ public class KyjCtrl {
 		return kyjProxy.naverWord();
 	}
 	
+	
 }
